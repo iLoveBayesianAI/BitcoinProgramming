@@ -1,5 +1,5 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iLoveBayesianAI/ProgrammingBitcoin/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iLoveBayesianAI/BitcoinProgramming.git/master)
 
 [Programming Bitcoin](https://learning.oreilly.com/library/view/programming-bitcoin/9781492031482/)
 
